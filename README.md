@@ -1,4 +1,4 @@
-# Graphics-Rendering-with-C-
+# Graphics-Rendering-with-C++
 
 2020/08-2020/11
 
